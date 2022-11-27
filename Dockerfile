@@ -1,7 +1,7 @@
 FROM jupyter/scipy-notebook
 
 RUN mkdir model
-ENV MODEL_DIR=./model
+ENV MODEL_DIR=/home/jovyan/model
 ENV MODEL_FILE_LDA=clf_lda.joblib
 ENV MODEL_FILE_NN=clf_nn.joblib
 
