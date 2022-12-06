@@ -1,4 +1,4 @@
-# ML Prediction API using LDA and NN for EEG Data
+# ML Prediction API using LDA and NN for EEG Dataset
 
 <pre> Built in Python with Flask for APIs & Deployed on Docker </pre>
 
